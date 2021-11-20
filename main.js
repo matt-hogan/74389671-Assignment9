@@ -1,6 +1,6 @@
 // Matt Hogan
 // INF 651A
-// Assignment 8
+// Assignment 9
 
 /* Practice Assignment 9:
 
